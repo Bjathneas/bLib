@@ -1,5 +1,6 @@
 
 # bLib - Little b's Library
+[![Doxygen Action](https://github.com/Bjathneas/bLib/actions/workflows/main.yml/badge.svg)](https://github.com/Bjathneas/bLib/actions/workflows/main.yml)[![pages-build-deployment](https://github.com/Bjathneas/bLib/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Bjathneas/bLib/actions/workflows/pages/pages-build-deployment)
 
 Currently a Game Framework
 
