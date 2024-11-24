@@ -1,0 +1,8 @@
+[package]
+name = "bLib"
+version = "0.1.0"
+std = 20
+
+[dependencies]
+glfw = "3.4"
+glad = "0.1.36"
