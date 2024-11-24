@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "bLib", "index.html", [
-    [ "<img src=\"https://github.com/Bjathneas/bLib/blob/main/bLib_logo.png\" alt=\"LOGO\"/> bLib - Little b's Library", "index.html", "index" ],
+    [ "<img src=\"https://github.com/Bjathneas/bLib/blob/main/bLib_logo.png?raw=true\" alt=\"LOGO\"/> bLib - Little b's Library", "index.html", "index" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [

@@ -9,5 +9,5 @@ var searchData=
   ['get_5fwindow_5fheight_6',['get_window_height',['../namespacebLib.html#afe23066db9b3c5757555c8491d3c994e',1,'bLib']]],
   ['get_5fwindow_5fsize_7',['get_window_size',['../namespacebLib.html#a642a2a2f3d8cadc0788b2c75bac74087',1,'bLib']]],
   ['get_5fwindow_5fwidth_8',['get_window_width',['../namespacebLib.html#a660b8e45ed4c695db5346ffb08762e5f',1,'bLib']]],
-  ['github_20com_20bjathneas_20blib_20blob_20main_20blib_5flogo_20png_20alt_20logo_20blib_20little_20b_20s_20library_9',['&lt;img src=&quot;https://github.com/Bjathneas/bLib/blob/main/bLib_logo.png&quot; alt=&quot;LOGO&quot;/&gt; bLib - Little b&apos;s Library',['../index.html',1,'']]]
+  ['github_20com_20bjathneas_20blib_20blob_20main_20blib_5flogo_20png_20raw_20true_20alt_20logo_20blib_20little_20b_20s_20library_9',['&lt;img src=&quot;https://github.com/Bjathneas/bLib/blob/main/bLib_logo.png?raw=true&quot; alt=&quot;LOGO&quot;/&gt; bLib - Little b&apos;s Library',['../index.html',1,'']]]
 ];
