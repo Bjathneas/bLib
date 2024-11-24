@@ -25,7 +25,53 @@
 var NAVTREE =
 [
   [ "bLib", "index.html", [
-    [ "bLib - Little b's Library", "index.html", "index" ],
+    [ "Doxygen Awesome", "index.html", "index" ],
+    [ "Customization", "md__2github_2workspace_2doxygen-awesome-css_2docs_2customization.html", [
+      [ "CSS-Variables", "md__2github_2workspace_2doxygen-awesome-css_2docs_2customization.html#autotoc_md1", [
+        [ "Setup", "md__2github_2workspace_2doxygen-awesome-css_2docs_2customization.html#autotoc_md2", null ],
+        [ "Available variables", "md__2github_2workspace_2doxygen-awesome-css_2docs_2customization.html#autotoc_md3", null ]
+      ] ],
+      [ "Doxygen generator", "md__2github_2workspace_2doxygen-awesome-css_2docs_2customization.html#autotoc_md4", null ],
+      [ "Share your customizations", "md__2github_2workspace_2doxygen-awesome-css_2docs_2customization.html#autotoc_md5", null ]
+    ] ],
+    [ "Extensions", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html", [
+      [ "Dark Mode Toggle", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#extension-dark-mode-toggle", [
+        [ "Installation", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md7", null ],
+        [ "Customizing", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md8", null ]
+      ] ],
+      [ "Fragment Copy Button", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#extension-copy-button", [
+        [ "Installation", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md9", null ],
+        [ "Customizing", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md10", null ]
+      ] ],
+      [ "Paragraph Linking", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#extension-para", [
+        [ "Installation", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md11", null ],
+        [ "Customizing", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md12", null ]
+      ] ],
+      [ "Interactive TOC", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#extension-toc", [
+        [ "Installation", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md13", null ],
+        [ "Customizing", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md14", null ]
+      ] ],
+      [ "Tabs", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#extension-tabs", [
+        [ "Installation", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md15", null ],
+        [ "Usage", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md16", null ]
+      ] ],
+      [ "Page Navigation", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#extension-page-navigation", [
+        [ "Installation", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md17", null ],
+        [ "Usage", "md__2github_2workspace_2doxygen-awesome-css_2docs_2extensions.html#autotoc_md18", null ]
+      ] ]
+    ] ],
+    [ "Tips & Tricks", "md__2github_2workspace_2doxygen-awesome-css_2docs_2tricks.html", [
+      [ "Diagrams with Graphviz", "md__2github_2workspace_2doxygen-awesome-css_2docs_2tricks.html#tricks-graphviz", null ],
+      [ "Disable Dark Mode", "md__2github_2workspace_2doxygen-awesome-css_2docs_2tricks.html#tricks-darkmode", null ],
+      [ "Choosing Sidebar Width", "md__2github_2workspace_2doxygen-awesome-css_2docs_2tricks.html#tricks-sidebar", null ],
+      [ "Formatting Tables", "md__2github_2workspace_2doxygen-awesome-css_2docs_2tricks.html#tricks-tables", [
+        [ "Centering", "md__2github_2workspace_2doxygen-awesome-css_2docs_2tricks.html#autotoc_md20", null ],
+        [ "Full Width", "md__2github_2workspace_2doxygen-awesome-css_2docs_2tricks.html#autotoc_md21", null ]
+      ] ]
+    ] ],
+    [ "Bug List", "bug.html", null ],
+    [ "Deprecated List", "deprecated.html", null ],
+    [ "Todo List", "todo.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -37,7 +83,12 @@ var NAVTREE =
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
-      [ "Class Index", "classes.html", null ]
+      [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ]
+      ] ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],

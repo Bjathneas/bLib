@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['set_5ftarget_5ffps_0',['set_target_fps',['../namespacebLib.html#a3a8354ae4d01aa2b936c8419462d2ce6',1,'bLib']]],
-  ['set_5fwindow_5fsize_1',['set_window_size',['../namespacebLib.html#a8092a893c3bde8758bee7a2448be2cbe',1,'bLib']]],
-  ['should_5fwindow_5fclose_2',['should_window_close',['../namespacebLib.html#aaf4cb2ef639825c9c2e4a9412fa4d7b7',1,'bLib']]],
-  ['show_5fwindow_3',['show_window',['../namespacebLib.html#a7c41a3f0bc212f5c3a48f5fa54698454',1,'bLib']]],
-  ['start_5fwindow_4',['start_window',['../namespacebLib.html#af59956e8445905c9d3147dad4f70ce23',1,'bLib']]]
+  ['mouse_5fjust_5fpressed_0',['mouse_just_pressed',['../namespacebLib.html#a4ec2d18f5a3bca91f2579b91a492b4b6',1,'bLib']]],
+  ['mouse_5fjust_5freleased_1',['mouse_just_released',['../namespacebLib.html#a8827abee8e3319681b25bbf1676618de',1,'bLib']]],
+  ['mouse_5fmoved_2',['mouse_moved',['../namespacebLib.html#ae682511bd91415aa61eb40ecc4c2d097',1,'bLib']]],
+  ['mouse_5fpressed_3',['mouse_pressed',['../namespacebLib.html#a0497be629e932dcf30cfdeeed6c6ce7b',1,'bLib']]]
 ];
