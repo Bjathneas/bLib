@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['customization_0',['Customization',['../md__2github_2workspace_2doxygen-awesome-css_2docs_2customization.html',1,'']]]
+  ['s_20library_0',['bLib - Little b&apos;s Library',['../index.html',1,'']]]
 ];
