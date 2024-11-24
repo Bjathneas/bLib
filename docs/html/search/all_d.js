@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['page_20navigation_0',['Page Navigation',['../md__2home_2dupus_2Github_2bLib_2doxygen-awesome-css_2docs_2extensions.html#extension-page-navigation',1,'']]],
-  ['paragraph_20linking_1',['Paragraph Linking',['../md__2home_2dupus_2Github_2bLib_2doxygen-awesome-css_2docs_2extensions.html#extension-para',1,'']]]
+  ['trace_0',['Trace',['../namespacebLib.html#ab0b4da750afe41ec1c292a4540a6a5d1a0cea136ce97950241b3da6f36546168b',1,'bLib']]]
 ];

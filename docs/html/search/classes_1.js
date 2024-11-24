@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['inputdata_0',['InputData',['../structInputData.html',1,'']]]
+  ['window_0',['Window',['../structWindow.html',1,'']]]
 ];
